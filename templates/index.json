@@ -627,8 +627,8 @@
         "16486399157921eff1-0": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "subheading": "",
+            "collection": "functional",
+            "subheading": "<p>dfgfdgdfgdfg<\/p>",
             "text_max_width": 42
           }
         },
